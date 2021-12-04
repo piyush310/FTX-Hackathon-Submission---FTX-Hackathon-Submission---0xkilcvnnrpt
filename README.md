@@ -1,6 +1,6 @@
 # FTX-Build-For-Small-Businesses
 
-# ReDBluePills
+# RedBluePills
 
 ![front](https://user-images.githubusercontent.com/39629176/144712736-009711b4-fa45-4c88-b2c8-9e7ed26605a5.png)
 ![front](https://user-images.githubusercontent.com/39629176/144712736-009711b4-fa45-4c88-b2c8-9e7ed26605a5.png)
