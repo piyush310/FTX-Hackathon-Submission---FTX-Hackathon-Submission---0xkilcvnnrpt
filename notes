@@ -1,0 +1,9 @@
+/order
+
+
+amount
+donation_amount (optional)
+
+razorpay_tax_percent (0.2%)
+razorpay_donation_percent (0.06%)
+`
